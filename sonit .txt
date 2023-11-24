@@ -1,3 +1,7 @@
 ik din marjayega
-GIT github new repotory
-github issue complaint
+
+
+=======
+
+fork complete copy
+
